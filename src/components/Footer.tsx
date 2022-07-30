@@ -79,17 +79,20 @@ export default function Footer() {
               </p>
               <ul className='child-hover:underline'>
                 <li>
-                  <a href='https://www.notion.so/GitHub-d827f6968f9648d9af39ed8bc1711d14'>
+                  <a target='_blank' href='https://github.com/MohanadOO'>
                     GitHub
                   </a>
                 </li>
                 <li>
-                  <a href='https://www.notion.so/Twitter-8532057e37e44afc96be3173192048ea'>
+                  <a target='_blank' href='https://twitter.com/Mohanad_OOO'>
                     Twitter
                   </a>
                 </li>
                 <li>
-                  <a href='https://www.notion.so/LinkedIn-55d0fb42028e4228b17763087936f893'>
+                  <a
+                    target='_blank'
+                    href='https://www.linkedin.com/in/mohanad-alrwahiy-176aa719b/'
+                  >
                     LinkedIn
                   </a>
                 </li>
