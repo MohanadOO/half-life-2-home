@@ -5,7 +5,7 @@ export default function AboutDeveloper() {
       id='about_developer'
     >
       <video
-        className='object-cover shadow-lg rounded-sm object-center aspect-[3/4] sm:w-[50%] max-w-xl'
+        className='object-cover shadow-lg rounded-sm object-center aspect-[3/4] sm:w-[50%]  sm:max-w-xl'
         src='/highlight.m4v'
         autoPlay
         muted

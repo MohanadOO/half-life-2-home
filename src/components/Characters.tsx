@@ -10,9 +10,10 @@ export default function Characters() {
           >
             <figure className='w-full overflow-hidden shadow-lg rounded-md'>
               <img
+                loading='lazy'
                 className='w-full max-w-xl aspect-[3/4] lg:aspect-[6/7] object-cover object-center scale-105 lg:hover:scale-100 transition-transform duration-500'
                 src='/gordon_freeman.webp'
-                alt='example'
+                alt='Gordon Freeman'
               />
             </figure>
             <figcaption className='mt-2 '>
@@ -34,9 +35,10 @@ export default function Characters() {
           >
             <figure className='w-full overflow-hidden shadow-lg rounded-md'>
               <img
+                loading='lazy'
                 className='w-full max-w-xl aspect-[3/4] lg:aspect-[6/7] object-cover object-top scale-105 lg:hover:scale-100 transition-transform duration-500'
                 src='/alyx_vance.webp'
-                alt='example'
+                alt='Alyx Vance'
               />
             </figure>
             <figcaption className='mt-2'>
@@ -59,9 +61,10 @@ export default function Characters() {
           >
             <figure className='w-full overflow-hidden shadow-lg rounded-md'>
               <img
+                loading='lazy'
                 className='w-full max-w-xl aspect-[3/4] lg:aspect-[6/7] object-cover object-top scale-105 lg:hover:scale-100 transition-transform duration-500'
                 src='/wallace_breen.webp'
-                alt='example'
+                alt='Wallace Breen'
               />
             </figure>
             <figcaption className='mt-2'>
